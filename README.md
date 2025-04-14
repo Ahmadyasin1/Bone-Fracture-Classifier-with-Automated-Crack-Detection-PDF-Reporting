@@ -1,4 +1,4 @@
-[BoneAI_Report.pdf](https://github.com/user-attachments/files/19728426/BoneAI_Report.pdf)# 🦴 Bone Fracture Classifier with Automated Crack Detection & PDF Reporting
+(https://github.com/user-attachments/files/19728426/BoneAI_Report.pdf)# 🦴 Bone Fracture Classifier with Automated Crack Detection & PDF Reporting
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange)
